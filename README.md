@@ -1,9 +1,15 @@
 # Mistrzostwa-Swiata-w-PiL-ce-Noznej-2026
-Projekt na konkurs organizowany przez KajoDataSpace i Data Acolyte. Zbiór danych pochodzący z Kaggle, przetworzony w Pythonie (Google Collab). Dashboard w PowerBI opublikowany w usłudzie PowerBI Service.
+Projekt na konkurs organizowany przez KajoDataSpace i Data Acolyte. Zbiór danych pochodzący z Kaggle, przetworzony w Pythonie (Google Collab). Dashboard w PowerBI opublikowany w usłudzie PowerBI Service. Dashboard w języku polskim.
 
 https://www.kaggle.com/datasets/mominullptr/fifa-world-cup-2026-dataset/data
 
++++English++++
+
 # ⚽ FIFA World Cup 2026 Dashboard | Power BI & Python
+
+Project for a competition organized by KajoDataSpace and Data Acolyte. Dataset sourced from Kaggle and processed using Python (Google Colab). Power BI dashboard published to the Power BI Service. Dashboard in Polish.
+
+https://www.kaggle.com/datasets/mominullptr/fifa-world-cup-2026-dataset/data
 
 ## 📌 Project Overview
 
@@ -26,9 +32,8 @@ The project covers the entire analytics workflow:
 - DAX
 - Power Query
 - Python
+- Numpy
 - Pandas
-- Plotly
-- GitHub
 
 ---
 
@@ -101,7 +106,6 @@ Dashboard can be filtered by:
 
 - Tournament stage
 - Team
-- Match date
 
 Available stages:
 
@@ -127,33 +131,25 @@ The dashboard includes several KPIs comparing each team against the tournament a
 - Yellow Cards
 - Red Cards
 
----
+link: https://app.powerbi.com/view?r=eyJrIjoiOTdhM2RlZTYtMzdkNC00OGRlLWIzODUtM2UwOGE3ZjkwNGU1IiwidCI6ImI3NDhiZDY5LTZmN2UtNGY2MS05ZjBiLWJjN2JjMzA4NWI1ZiJ9&pageName=9ce55089a5a2092854a6
 
 # 📷 Dashboard Preview
 
-## Tournament Overview
+## Tournament Overview - who, when, wehre
+Maps with countries, stadiums, table of matches
 
-*(Insert screenshot here)*
+<img width="2287" height="1231" alt="obraz" src="https://github.com/user-attachments/assets/09f4482e-b72d-4c52-b6d6-01acc2a4496f" />
 
----
 
-## Team Analysis
+## Scores Analysis - who is the most effective?
 
-*(Insert screenshot here)*
+<img width="2193" height="1238" alt="obraz" src="https://github.com/user-attachments/assets/4aa2d5e2-3c3a-498a-bb1a-28e8dcde1304" />
 
----
 
-## Player Analysis
+## KPIs - what metric to improve
 
-*(Insert screenshot here)*
+<img width="2218" height="1223" alt="obraz" src="https://github.com/user-attachments/assets/d821a255-67ac-4630-a01b-7c29ee940331" />
 
----
-
-## Stadium Analysis
-
-*(Insert screenshot here)*
-
----
 
 # 📚 Data Preparation
 
