@@ -9,7 +9,11 @@ https://www.kaggle.com/datasets/mominullptr/fifa-world-cup-2026-dataset/data
 
 Project for a competition organized by KajoDataSpace and Data Acolyte. Dataset sourced from Kaggle and processed using Python (Google Colab). Power BI dashboard published to the Power BI Service. Dashboard in Polish.
 
+Data source:
 https://www.kaggle.com/datasets/mominullptr/fifa-world-cup-2026-dataset/data
+
+Dashboard:
+link: https://app.powerbi.com/view?r=eyJrIjoiOTdhM2RlZTYtMzdkNC00OGRlLWIzODUtM2UwOGE3ZjkwNGU1IiwidCI6ImI3NDhiZDY5LTZmN2UtNGY2MS05ZjBiLWJjN2JjMzA4NWI1ZiJ9&pageName=9ce55089a5a2092854a6
 
 ## 📌 Project Overview
 
@@ -131,7 +135,7 @@ The dashboard includes several KPIs comparing each team against the tournament a
 - Yellow Cards
 - Red Cards
 
-link: https://app.powerbi.com/view?r=eyJrIjoiOTdhM2RlZTYtMzdkNC00OGRlLWIzODUtM2UwOGE3ZjkwNGU1IiwidCI6ImI3NDhiZDY5LTZmN2UtNGY2MS05ZjBiLWJjN2JjMzA4NWI1ZiJ9&pageName=9ce55089a5a2092854a6
+
 
 # 📷 Dashboard Preview
 
