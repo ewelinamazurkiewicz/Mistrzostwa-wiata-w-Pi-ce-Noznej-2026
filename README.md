@@ -1,13 +1,6 @@
-# Mistrzostwa-Swiata-w-PiL-ce-Noznej-2026
-Projekt na konkurs organizowany przez KajoDataSpace i Data Acolyte. Zbiór danych pochodzący z Kaggle, przetworzony w Pythonie (Google Collab). Dashboard w PowerBI opublikowany w usłudzie PowerBI Service. Dashboard w języku polskim.
-
-https://www.kaggle.com/datasets/mominullptr/fifa-world-cup-2026-dataset/data
-
-+++English++++
-
 # ⚽ FIFA World Cup 2026 Dashboard | Power BI & Python
 
-Project for a competition organized by KajoDataSpace and Data Acolyte. Dataset sourced from Kaggle and processed using Python (Google Colab). Power BI dashboard published to the Power BI Service. Dashboard in Polish.
+Project for a competition organized by KajoDataSpace and Data Acolyte. Dataset sourced from Kaggle and processed using Python (Google Colab). Power BI dashboard published to the Power BI Service. Dashboard in Polish language.
 
 Data source:
 https://www.kaggle.com/datasets/mominullptr/fifa-world-cup-2026-dataset/data
